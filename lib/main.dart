@@ -27,11 +27,11 @@ class MyApp extends StatelessWidget {
                     end: FractionalOffset.bottomRight,
                     colors: [Color(0xff0096ff), Color(0xff6610f2)]),
                 image: DecorationImage(
-                  image: AssetImage(
+                  /*image: AssetImage(
                       "assets/images/pattern.jpg"),
                   fit: BoxFit.none,
                   repeat: ImageRepeat.repeat,
-                )),
+                )*/),
           ),
         ),
       ),
